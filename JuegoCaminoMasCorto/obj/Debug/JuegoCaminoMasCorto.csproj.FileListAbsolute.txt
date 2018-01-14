@@ -1,0 +1,8 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\JuegoCaminoMasCorto\JuegoCaminoMasCorto\bin\Debug\JuegoCaminoMasCorto.exe.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\JuegoCaminoMasCorto\JuegoCaminoMasCorto\bin\Debug\JuegoCaminoMasCorto.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\JuegoCaminoMasCorto\JuegoCaminoMasCorto\bin\Debug\JuegoCaminoMasCorto.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\JuegoCaminoMasCorto\JuegoCaminoMasCorto\obj\Debug\JuegoCaminoMasCorto.Form1.resources
+\\psf\Home\Documents\Visual Studio 2012\Projects\JuegoCaminoMasCorto\JuegoCaminoMasCorto\obj\Debug\JuegoCaminoMasCorto.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2012\Projects\JuegoCaminoMasCorto\JuegoCaminoMasCorto\obj\Debug\JuegoCaminoMasCorto.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\JuegoCaminoMasCorto\JuegoCaminoMasCorto\obj\Debug\JuegoCaminoMasCorto.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\JuegoCaminoMasCorto\JuegoCaminoMasCorto\obj\Debug\JuegoCaminoMasCorto.pdb
